@@ -1,7 +1,7 @@
 pkgbase=linux-nabu
-_branch=sm8150/6.14
+_branch=sm8150/6.15
 _srcname=linux-nabu
-pkgver=6.14.0.defb39db31e6
+pkgver=6.15
 pkgrel=1
 pkgdesc='Snapdragon 855 Mainline Linux'
 url='https://gitlab.com/sm8150-mainline/linux'
