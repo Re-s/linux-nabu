@@ -38,14 +38,14 @@ source=(
   "extra.config"
   "https://g.tx0.su/tx0/nabu-mainline-patches/raw/branch/main/0001-HACK-NABU-add-clk-delay-for-UFS.patch"
   "https://g.tx0.su/tx0/nabu-mainline-patches/raw/branch/main/0002-HACK-NABU-change-freq-table-for-UFS.patch"
-  "https://g.tx0.su/tx0/nabu-mainline-patches/raw/branch/main/0003-NABU-dts-enable-ln8000-charger-reduce-charge-voltage.patch"
+  #"https://g.tx0.su/tx0/nabu-mainline-patches/raw/branch/main/0003-NABU-dts-enable-ln8000-charger-reduce-charge-voltage.patch"
 )
 sha256sums=(
   "SKIP"
   "SKIP"
   "SKIP"
   "SKIP"
-  "SKIP"
+  #"SKIP"
 )
 
 export KBUILD_BUILD_HOST=lon
